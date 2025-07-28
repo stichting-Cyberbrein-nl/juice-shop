@@ -36,8 +36,8 @@ application:
     bottomProductImage: apple_pressings.jpg
   welcomeBanner:
     showOnFirstStart: true
-    title: 'Welcome to OWASP Juice Shop!'
-    message: "<p>Being a web application with a vast number of intended security vulnerabilities, the <strong>OWASP Juice Shop</strong> is supposed to be the opposite of a best practice or template application for web developers: It is an awareness, training, demonstration and exercise tool for security risks in modern web applications. The <strong>OWASP Juice Shop</strong> is an open-source project hosted by the non-profit <a href='https://owasp.org' target='_blank'>Open Worldwide Application Security Project (OWASP)</a> and is developed and maintained by volunteers. Check out the link below for more information and documentation on the project.</p><h1><a href='https://owasp-juice.shop' target='_blank'>https://owasp-juice.shop</a></h1>"
+    title: 'Welkom bij de Cyberbrein Juice Shop!'
+    message: "<p>Als webapplicatie met een groot aantal opzettelijke beveiligingskwetsbaarheden is de <strong>Cyberbrein Juice Shop</strong> gebaseerd op het originele OWASP Juice Shop project. Het is een bewustwording, training, demonstratie en oefentool voor beveiligingsrisico's in moderne webapplicaties. Deze variant wordt gehost door <strong>Stichting Cyberbrein</strong> en is aangepast voor Nederlandse beveiligingstrainingen. Alle credits gaan naar het originele <a href='https://owasp.org' target='_blank'>OWASP Juice Shop</a> team en de <a href='https://owasp.org' target='_blank'>Open Worldwide Application Security Project (OWASP)</a> voor hun geweldige werk. Bekijk de onderstaande link voor meer informatie over het originele project.</p><h1><a href='https://owasp-juice.shop' target='_blank'>https://owasp-juice.shop</a></h1>"
   cookieConsent:
     message: 'This website uses fruit cookies to ensure you get the juiciest tracking experience.'
     dismissText: 'Me want it!'

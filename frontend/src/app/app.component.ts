@@ -25,6 +25,6 @@ dom.watch()
 })
 export class AppComponent {
   constructor (@Inject(DOCUMENT) private readonly _document: HTMLDocument, private readonly translate: TranslateService) {
-    this.translate.setDefaultLang('en')
+    this.translate.setDefaultLang('nl_NL')
   }
 }

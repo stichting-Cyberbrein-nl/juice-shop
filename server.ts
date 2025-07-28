@@ -293,7 +293,7 @@ restoreOverwrittenFilesWithOriginals().then(() => {
     locales: locales.map((locale: { key: string }) => locale.key),
     directory: path.resolve('i18n'),
     cookie: 'language',
-    defaultLocale: 'en',
+    defaultLocale: 'nl_NL',
     autoReload: true
   })
   app.use(i18n.init)
